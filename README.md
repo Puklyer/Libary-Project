@@ -1,5 +1,5 @@
 # Library App - Library Management System
-
+!!! important This application is currently not working properly; the window opens, but the button actions don't work correctly. I will complete the missing parts soon.
 ## Description
 Windows Forms application for library management, developed in C# with Visual Studio 2022 and MS Access database.
 
