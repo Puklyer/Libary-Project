@@ -1,0 +1,26 @@
+LIBRARY APP - HOW TO USE
+
+1. OPENING IN VISUAL STUDIO 2022:
+   - Double-click BibliotecaApp.sln file
+   - Project will open in Visual Studio 2022
+
+2. DATABASE SETUP:
+   - Application will offer automatic database creation on first run
+   - Select "YES" to create automatically
+   - Or manually create Library.accdb on Desktop and run SQL script
+
+3. RUNNING:
+   - Press F5 or click Start button
+   - Login: admin / 123
+
+4. FEATURES:
+   - Book management (add, edit, delete)
+   - Member management
+   - Loan system
+   - English interface
+   - MS Access database
+
+5. TROUBLESHOOTING:
+   - Build error: dotnet clean then dotnet build
+   - Database error: Select automatic creation
+   - Provider error: Install Access Database Engine
