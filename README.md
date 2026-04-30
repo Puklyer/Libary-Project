@@ -2,6 +2,7 @@
 !!! important This application is currently not working properly; the window opens, but the button actions don't work correctly. I will complete the missing parts soon.
 ## Description
 Windows Forms application for library management, developed in C# with Visual Studio 2022 and MS Access database.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/86ff40a6-2bad-432f-96b8-18ff2085ab18" />
 
 ## Features
 - **Book Management**: Add, edit, delete and view books with images
